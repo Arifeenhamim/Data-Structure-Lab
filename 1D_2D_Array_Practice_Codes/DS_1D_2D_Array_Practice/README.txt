@@ -1,1 +1,0 @@
-DATA STRUCTURE LAB - 1D AND 2D ARRAY PRACTICE\n\n1D: input/output, sum/average, largest/smallest, linear search, reverse.\n2D: matrix input/output, row/column sums, diagonal sums, matrix addition, transpose.\nEach CPP file is a separate program. Compile and run one file at a time.\nMaximum sizes: 100 elements for 1D arrays and 10x10 for 2D arrays.\n
